@@ -1,0 +1,1 @@
+This is a clone directory inside which i m creating a file and i will push the file to remote repo and because it is a clone dir i dont need to do remote add origin!!!
